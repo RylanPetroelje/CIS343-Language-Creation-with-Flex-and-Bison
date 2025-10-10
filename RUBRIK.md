@@ -1,7 +1,7 @@
 
 # 343-language-creation-flex-and-bison
 For this project, you will be creating a new programming language. This language will not be very complex (certainly not Turing complete!). I'm not very good at drawing in paint programs. I prefer to draw with code! So, we will be creating a mini-language that allows us to do that.
-We are going to call our language Zoomjoystrong (thank you to the Product Name Generator. Zoomjoystrong will will be written in C, with the help of  Flex and Bison. As such, we will need the following pieces:
+We are going to call our language Zoomjoystrong (thank you to the [Product Name Generator](https://online-generator.com/name-generator/product-name-generator.php)). Zoomjoystrong will will be written in C, with the help of Flex and Bison. As such, we will need the following pieces:
 - A Flex file to define our tokens. We will call this `zoomjoystrong.lex`.
 - A Bison file to define our grammar. This will be called `zoomjoystrong.y`.
 - A graphics library with functions we can call to do the drawing. This will be provided to you in files called `zoomjoystrong.h` and `zoomjoystrong.c`.
