@@ -3,6 +3,10 @@
 #include <SDL2/SDL.h>
 #include <unistd.h>
 
+SDL_Texture* texture;
+SDL_Renderer* renderer;
+SDL_Window* window;
+
 struct color current;
 
 void setup(){
