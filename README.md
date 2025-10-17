@@ -1,6 +1,6 @@
 # Abstract
 Date: 10/17/2025  
-This is a project I did for my Structure of Programming Languages class. It involved creating a programming language by creating tokens and in a Flex file and defining syntax in a Bison file. This was my first project with the two languages and very much a learning experience for me. See RUBRIK.md for more comprehensive project details.
+This is a project I did for my Structure of Programming Languages class. It involved creating a programming language by creating tokens in a Flex file and defining syntax in a Bison file. This was my first project with the two languages and very much a learning experience for me. See RUBRIK.md for more comprehensive project details.
 
 # Key Programming Concepts Demonstrated
 1. Lexical Analysis
