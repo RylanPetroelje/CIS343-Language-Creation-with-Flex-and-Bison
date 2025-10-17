@@ -21,7 +21,7 @@ This is a project I did for my Structure of Programming Languages class. It invo
    - Runtime Error Handling (e.g. Checking for division by zero)
 
 # Run Instructions
-Download the files and run this command in your terminal to create an object file to run from:
+With the files provided, theres no need to run any flex or bison commands in your terminal. Simply download the files and run this command in your terminal to create an object file to run from:
 ```bash
 gcc -o zjs zoomjoystrong.c lex.yy.c zoomjoystrong.tab.c -lSDL2 -lm
 ```
