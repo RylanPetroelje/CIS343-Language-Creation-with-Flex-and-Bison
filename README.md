@@ -34,7 +34,7 @@ This is a project I did for my Structure of Programming Languages class. It invo
 - `gv.zjs`- Example script written in `ZoomJoyStrong` that contains a sequence of commands to draw a graphic.
 
 # Run Instructions
-With the files provided, theres no need to run any flex or bison commands in your terminal. Simply download the files and run this command in your terminal to create an object file to run from:
+With the files provided, theres no need to run any flex or bison commands in your terminal. Although the compiled binary file is provided, if you want to recompile, run this command:
 ```bash
 gcc -o zjs zoomjoystrong.c lex.yy.c zoomjoystrong.tab.c -lSDL2 -lm
 ```
