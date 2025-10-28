@@ -5,11 +5,11 @@ This is a project I did for my Structure of Programming Languages class. It invo
 # Key Programming Concepts Demonstrated
 1. Lexical Analysis
    - Tokenization
-   - RegEx (Defining variable types)
-   - Error Handling (If character is none of the above, throw an error)
+   - RegEx
+   - Error Handling
 2. Syntax Analysis
    - Grammar
-   - Recursion (e.g. definition of statement_list)
+   - Recursion
    - Semantic Action
 3. Interpreter Design
    - Execution Model
@@ -18,7 +18,7 @@ This is a project I did for my Structure of Programming Languages class. It invo
 5. C Programming and API Interaction
    - Modular Programming
    - API Usage (Pulls from a graphic library)
-   - Runtime Error Handling (e.g. Checking for division by zero)
+   - Runtime Error Handling 
   
 # File Breakdown
 - `README.md` - Markdown file containing high-level requirements and file details.
